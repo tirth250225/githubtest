@@ -1,0 +1,5 @@
+figure x y height width colour tx ty tradius x y
+circle 100 50 0 0 green 50 50 50 0 
+rectangle 0 0 100 50 black 0 0 0 0 0
+ellipse 300 200 0 0 pink 300 200 0 0 0
+line 500 500 0 0 orange 0 0 500 0
